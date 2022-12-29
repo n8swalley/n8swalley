@@ -1,7 +1,7 @@
-Hi, I'm N8 Swalley ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm a Developer, Student, and Tutor!⚡
+Hi, my name is N8 Swalley ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================
 
-Software Engineer & IT Application Analyst
+I'm an IT Application Analyst, Student, and Tutor!⚡
 ------------------------------------------
 
 * 🔍 I'm currently working on mySQL related projects!
