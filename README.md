@@ -4,7 +4,7 @@ Hi, my name is N8 Swalley ![](https://user-images.githubusercontent.com/18350557
 Software Engineer / IT Application Analyst ⚡
 ------------------------------------------
 
-* 🔍 I'm currently working on mySQL related projects!
+* 🔍 I'm currently working on research and SQL related projects!
 * 🌱 I'm currently learning GraphQL
 * 🌟 I have pinned several helpful repos, check them out!
 * 💬 Ask me about my Bellman Equation Tattoo!
