@@ -5,7 +5,6 @@ Software Engineer / IT Application Analyst ⚡
 ------------------------------------------
 
 * 🔍 I'm currently working on research and SQL related projects!
-* 🌱 I'm currently learning GraphQL
 * 🌟 I have pinned several helpful repos, check them out!
 * 💬 Ask me about my Bellman Equation Tattoo!
 
