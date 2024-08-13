@@ -6,7 +6,7 @@ Software Engineer / Application Support Specialist ⚡
 
 * 🌟 I have pinned several helpful repos, check them out!
 
-My specialties include quickly learning new skills and programming languages, problem-solving, and collaborating with others. I see myself as a valuable team player and I take pride in having a strong work ethic and being organized. I'm interested in artifical intelligence and enhancing the end-user experience. I challenge myself to be a badass every day!
+My specialties include quickly learning new skills and programming languages, problem-solving, and collaborating with others. I see myself as a valuable team player and I take pride in having a strong work ethic and being organized. I'm interested in artifical intelligence and enhancing the end-user experience. I'm always aiming to maximize my expected utility!
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
