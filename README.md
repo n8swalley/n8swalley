@@ -1,10 +1,9 @@
 Hi, my name is N8 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================
 
-Software Engineer / IT Application Analyst ⚡
+Software Engineer / Application Support Specialist ⚡
 ------------------------------------------
 
-* 🔍 I'm currently working on Big Data research and Dynamic programming related projects!
 * 🌟 I have pinned several helpful repos, check them out!
 
 My specialties include quickly learning new skills and programming languages, problem-solving, and collaborating with others. I see myself as a valuable team player and I take pride in having a strong work ethic and being organized. I'm interested in artifical intelligence and enhancing the end-user experience. I challenge myself to be a badass every day!
